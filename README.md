@@ -13,3 +13,5 @@ You can attach this files directly or pass through AJAX call to encrypt this fil
 
 The documentation of InboxSdk can be found on the below url,
 https://www.inboxsdk.com/docs/
+
+The ajax call is made in the conent.js file.
